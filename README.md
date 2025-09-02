@@ -4,7 +4,6 @@
   - [Getting Started](#getting-started)
   - [Contributing](#contributing)
   - [Authors](#authors)
-  - [License](#license)
 
 ## Overview
 
