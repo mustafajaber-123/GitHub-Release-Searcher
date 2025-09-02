@@ -56,7 +56,15 @@
         const fileTypeInput = document.getElementById('fileType');
         const resultsDiv = document.getElementById('consoleOutput');
         const downloadingButton = document.getElementById('download');
-
+        githubTokenInput.addEventListener("input", () => { //save to local storage
+            localStorage.setItem("githubToken", githubTokenInput.value);
+        });
+        document.addEventListener("DOMContentLoaded", () => { //load from local storage
+            const savedToken = localStorage.getItem("githubToken");
+            if (savedToken) {
+                githubTokenInput.value = savedToken;
+            }
+        });
         // Enhanced logging functions
         function logInfo(message) {
             logToConsoleStyled(message, 'info');
@@ -196,6 +204,7 @@
                 a.click();
                 document.body.removeChild(a);
                 URL.revokeObjectURL(url);
+            
         }
     </script>
 </body>
